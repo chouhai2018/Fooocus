@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Fei Speaks Volumes",
+    "prompt": "{prompt}, truly captivating, Her delicate fingers caress the fabric seductively, stunning figure speaks volumes",
+    "negative_prompt": "text"
+  },
+  {
+    "name": "Fei Animagine Cinematic",
+    "prompt": "{prompt}, cinematic still, emotional, harmonious, vignette, highly detailed, high budget, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy",
+    "negative_prompt": "cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
+  },
+  {
+    "name": "Fei Animagine Photographic",
+    "prompt": "{prompt}, cinematic photo, 35mm photograph, film, bokeh, professional, 4k, highly detailed",
+    "negative_prompt": "drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  {
+    "name": "Fei Animagine Anime",
+    "prompt": "{prompt}, anime artwork, anime style, key visual, vibrant, studio anime, highly detailed",
+    "negative_prompt": "photo, deformed, black and white, realism, disfigured, low contrast"
+  },
+  {
+    "name": "Fei Animagine Manga",
+    "prompt": "{prompt}, manga style, vibrant, high-energy, detailed, iconic, Japanese comic style",
+    "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, Western comic style"
+  },
+  {
+    "name": "Fei Animagine Digital Art",
+    "prompt": "{prompt}, concept art, digital artwork, illustrative, painterly, matte painting, highly detailed",
+    "negative_prompt": "photo, photorealistic, realism, ugly"
+  },
+  {
+    "name": "Fei Animagine Pixel art",
+    "prompt": "{prompt}, pixel-art, low-res, blocky, pixel art style, 8-bit graphics",
+    "negative_prompt": "sloppy, messy, blurry, noisy, highly detailed, ultra textured, photo, realistic"
+  },
+  {
+    "name": "Fei Animagine Fantasy art",
+    "prompt": "{prompt}, ethereal fantasy concept art, magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy",
+    "negative_prompt": "photographic, realistic, realism, 35mm film, dslr, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white"
+  },
+  {
+    "name": "Fei Animagine Neonpunk",
+    "prompt": "{prompt}, neonpunk style, cyberpunk, vaporwave, neon, vibes, vibrant, stunningly beautiful, crisp, detailed, sleek, ultramodern, magenta highlights, dark purple shadows, high contrast, cinematic, ultra detailed, intricate, professional",
+    "negative_prompt": "painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
+  },
+  {
+    "name": "Fei Animagine 3D Model",
+    "prompt": "{prompt}, professional 3d model, octane render, highly detailed, volumetric, dramatic lighting",
+    "negative_prompt": "ugly, deformed, noisy, low poly, blurry, painting"
+  },
+  {
+    "name": "Fei Quality Standard v3.0",
+    "prompt": "{prompt}, masterpiece, best quality",
+    "negative_prompt": "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name"
+  },
+  {
+    "name": "Fei Quality Standard v3.1",
+    "prompt": "{prompt}, masterpiece, best quality, very aesthetic, absurdres",
+    "negative_prompt": "lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+  },
+  {
+    "name": "Fei Quality Light v3.1",
+    "prompt": "{prompt}, (masterpiece), best quality, very aesthetic, perfect face",
+    "negative_prompt": "(low quality, worst quality:1.2), very displeasing, 3d, watermark, signature, ugly, poorly drawn"
+  },
+  {
+    "name": "Fei Quality Heavy v3.1",
+    "prompt": "{prompt}, (masterpiece), (best quality), (ultra-detailed), very aesthetic, illustration, disheveled hair, perfect composition, moist skin, intricate details",
+    "negative_prompt": "longbody, lowres, bad anatomy, bad hands, missing fingers, pubic hair, extra digit, fewer digits, cropped, worst quality, low quality, very displeasing"
+  },
+  {
+    "name": "Fei 3D Model",
+    "prompt": "professional 3d model {prompt} . octane render, highly detailed, volumetric, dramatic lighting",
+    "negative_prompt": "ugly, deformed, noisy, low poly, blurry, painting"
+  },
+  {
+    "name": "Fei Analog Film",
+    "prompt": "analog film photo {prompt} . faded film, desaturated, 35mm photo, grainy, vignette, vintage, Kodachrome, Lomography, stained, highly detailed, found footage",
+    "negative_prompt": "painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
+  },
+  {
+    "name": "Fei Anime",
+    "prompt": "anime artwork {prompt} . anime style, key visual, vibrant, studio anime,  highly detailed",
+    "negative_prompt": "photo, deformed, black and white, realism, disfigured, low contrast"
+  },
+  {
+    "name": "Fei Cinematic",
+    "prompt": "cinematic film still {prompt} . shallow depth of field, vignette, highly detailed, high budget, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy",
+    "negative_prompt": "anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
+  },
+  {
+    "name": "Fei Comic Book",
+    "prompt": "comic {prompt} . graphic illustration, comic art, graphic novel art, vibrant, highly detailed",
+    "negative_prompt": "photograph, deformed, glitch, noisy, realistic, stock photo"
+  },
+  {
+    "name": "Fei Craft Clay",
+    "prompt": "play-doh style {prompt} . sculpture, clay art, centered composition, Claymation",
+    "negative_prompt": "sloppy, messy, grainy, highly detailed, ultra textured, photo"
+  },
+  {
+    "name": "Fei Digital Art",
+    "prompt": "concept art {prompt} . digital artwork, illustrative, painterly, matte painting, highly detailed",
+    "negative_prompt": "photo, photorealistic, realism, ugly"
+  },
+  {
+    "name": "Fei Enhance",
+    "prompt": "breathtaking {prompt} . award-winning, professional, highly detailed",
+    "negative_prompt": "ugly, deformed, noisy, blurry, distorted, grainy"
+  },
+  {
+    "name": "Fei Fantasy Art",
+    "prompt": "ethereal fantasy concept art of  {prompt} . magnificent, celestial, ethereal, painterly, epic, majestic, magical, fantasy art, cover art, dreamy",
+    "negative_prompt": "photographic, realistic, realism, 35mm film, dslr, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white"
+  },
+  {
+    "name": "Fei Isometric Style",
+    "prompt": "isometric style {prompt} . vibrant, beautiful, crisp, detailed, ultra detailed, intricate",
+    "negative_prompt": "deformed, mutated, ugly, disfigured, blur, blurry, noise, noisy, realistic, photographic"
+  },
+  {
+    "name": "Fei Line Art",
+    "prompt": "line art drawing {prompt} . professional, sleek, modern, minimalist, graphic, line art, vector graphics",
+    "negative_prompt": "anime, photorealistic, 35mm film, deformed, glitch, blurry, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, mutated, realism, realistic, impressionism, expressionism, oil, acrylic"
+  },
+  {
+    "name": "Fei Lowpoly",
+    "prompt": "low-poly style {prompt} . low-poly game art, polygon mesh, jagged, blocky, wireframe edges, centered composition",
+    "negative_prompt": "noisy, sloppy, messy, grainy, highly detailed, ultra textured, photo"
+  },
+  {
+    "name": "Fei Neon Punk",
+    "prompt": "neonpunk style {prompt} . cyberpunk, vaporwave, neon, vibes, vibrant, stunningly beautiful, crisp, detailed, sleek, ultramodern, magenta highlights, dark purple shadows, high contrast, cinematic, ultra detailed, intricate, professional",
+    "negative_prompt": "painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
+  },
+  {
+    "name": "Fei Origami",
+    "prompt": "origami style {prompt} . paper art, pleated paper, folded, origami art, pleats, cut and fold, centered composition",
+    "negative_prompt": "noisy, sloppy, messy, grainy, highly detailed, ultra textured, photo"
+  },
+  {
+    "name": "Fei Photographic",
+    "prompt": "cinematic photo {prompt} . 35mm photograph, film, bokeh, professional, 4k, highly detailed",
+    "negative_prompt": "drawing, painting, crayon, sketch, graphite, impressionist, noisy, blurry, soft, deformed, ugly"
+  },
+  {
+    "name": "Fei Pixel Art",
+    "prompt": "pixel-art {prompt} . low-res, blocky, pixel art style, 8-bit graphics",
+    "negative_prompt": "sloppy, messy, blurry, noisy, highly detailed, ultra textured, photo, realistic"
+  },
+  {
+    "name": "Fei Texture",
+    "prompt": "texture {prompt} top down close-up",
+    "negative_prompt": "ugly, deformed, noisy, blurry"
+  },
+  {
+    "name": "Fei Advertising",
+    "prompt": "Advertising poster style {prompt} . Professional, modern, product-focused, commercial, eye-catching, highly detailed",
+    "negative_prompt": "noisy, blurry, amateurish, sloppy, unattractive"
+  },
+  {
+    "name": "Fei Food Photography",
+    "prompt": "Food photography style {prompt} . Appetizing, professional, culinary, high-resolution, commercial, highly detailed",
+    "negative_prompt": "unappetizing, sloppy, unprofessional, noisy, blurry"
+  },
+  {
+    "name": "Fei Real Estate",
+    "prompt": "Real estate photography style {prompt} . Professional, inviting, well-lit, high-resolution, property-focused, commercial, highly detailed",
+    "negative_prompt": "dark, blurry, unappealing, noisy, unprofessional"
+  },
+  {
+    "name": "Fei Abstract",
+    "prompt": "Abstract style {prompt} . Non-representational, colors and shapes, expression of feelings, imaginative, highly detailed",
+    "negative_prompt": "realistic, photographic, figurative, concrete"
+  },
+  {
+    "name": "Fei Cubist",
+    "prompt": "Cubist artwork {prompt} . Geometric shapes, abstract, innovative, revolutionary",
+    "negative_prompt": "anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
+  },
+  {
+    "name": "Fei Graffiti",
+    "prompt": "Graffiti style {prompt} . Street art, vibrant, urban, detailed, tag, mural",
+    "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+  },
+  {
+    "name": "Fei Hyperrealism",
+    "prompt": "Hyperrealistic art {prompt} . Extremely high-resolution details, photographic, realism pushed to extreme, fine texture, incredibly lifelike",
+    "negative_prompt": "simplified, abstract, unrealistic, impressionistic, low resolution"
+  },
+  {
+    "name": "Fei Impressionist",
+    "prompt": "Impressionist painting {prompt} . Loose brushwork, vibrant color, light and shadow play, captures feeling over form",
+    "negative_prompt": "anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
+  },
+  {
+    "name": "Fei Pointillism",
+    "prompt": "Pointillism style {prompt} . Composed entirely of small, distinct dots of color, vibrant, highly detailed",
+    "negative_prompt": "line drawing, smooth shading, large color fields, simplistic"
+  },
+  {
+    "name": "Fei Pop Art",
+    "prompt": "Pop Art style {prompt} . Bright colors, bold outlines, popular culture themes, ironic or kitsch",
+    "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, minimalist"
+  },
+  {
+    "name": "Fei Psychedelic",
+    "prompt": "Psychedelic style {prompt} . Vibrant colors, swirling patterns, abstract forms, surreal, trippy",
+    "negative_prompt": "monochrome, black and white, low contrast, realistic, photorealistic, plain, simple"
+  },
+  {
+    "name": "Fei Renaissance",
+    "prompt": "Renaissance style {prompt} . Realistic, perspective, light and shadow, religious or mythological themes, highly detailed",
+    "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, modernist, minimalist, abstract"
+  },
+  {
+    "name": "Fei Steampunk",
+    "prompt": "Steampunk style {prompt} . Antique, mechanical, brass and copper tones, gears, intricate, detailed",
+    "negative_prompt": "deformed, glitch, noisy, low contrast, anime, photorealistic"
+  },
+  {
+    "name": "Fei Surrealist",
+    "prompt": "Surrealist art {prompt} . Dreamlike, mysterious, provocative, symbolic, intricate, detailed",
+    "negative_prompt": "anime, photorealistic, realistic, deformed, glitch, noisy, low contrast"
+  },
+  {
+    "name": "Fei Typography",
+    "prompt": "Typographic art {prompt} . Stylized, intricate, detailed, artistic, text-based",
+    "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+  },
+  {
+    "name": "Fei Watercolor",
+    "prompt": "Watercolor painting {prompt} . Vibrant, beautiful, painterly, detailed, textural, artistic",
+    "negative_prompt": "anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
+  },
+  {
+    "name": "Fei Fighting Game",
+    "prompt": "Fighting game style {prompt} . Dynamic, vibrant, action-packed, detailed character design, reminiscent of fighting video games",
+    "negative_prompt": "peaceful, calm, minimalist, photorealistic"
+  },
+  {
+    "name": "Fei GTA",
+    "prompt": "GTA-style artwork {prompt} . Satirical, exaggerated, pop art style, vibrant colors, iconic characters, action-packed",
+    "negative_prompt": "realistic, black and white, low contrast, impressionist, cubist, noisy, blurry, deformed"
+  },
+  {
+    "name": "Fei Super Mario",
+    "prompt": "Super Mario style {prompt} . Vibrant, cute, cartoony, fantasy, playful, reminiscent of Super Mario series",
+    "negative_prompt": "realistic, modern, horror, dystopian, violent"
+  },
+  {
+    "name": "Fei Minecraft",
+    "prompt": "Minecraft style {prompt} . Blocky, pixelated, vibrant colors, recognizable characters and objects, game assets",
+    "negative_prompt": "smooth, realistic, detailed, photorealistic, noise, blurry, deformed"
+  },
+  {
+    "name": "Fei Pokémon",
+    "prompt": "Pokémon style {prompt} . Vibrant, cute, anime, fantasy, reminiscent of Pokémon series",
+    "negative_prompt": "realistic, modern, horror, dystopian, violent"
+  },
+  {
+    "name": "Fei Retro Arcade",
+    "prompt": "Retro arcade style {prompt} . 8-bit, pixelated, vibrant, classic video game, old school gaming, reminiscent of 80s and 90s arcade games",
+    "negative_prompt": "modern, ultra-high resolution, photorealistic, 3D"
+  },
+  {
+    "name": "Fei Retro Game",
+    "prompt": "Retro game art {prompt} . 16-bit, vibrant colors, pixelated, nostalgic, charming, fun",
+    "negative_prompt": "realistic, photorealistic, 35mm film, deformed, glitch, low contrast, noisy"
+  },
+  {
+    "name": "Fei RPG Fantasy Game",
+    "prompt": "Role-playing game (RPG) style fantasy {prompt} . Detailed, vibrant, immersive, reminiscent of high fantasy RPG games",
+    "negative_prompt": "sci-fi, modern, urban, futuristic, low detailed"
+  },
+  {
+    "name": "Fei Strategy Game",
+    "prompt": "Strategy game style {prompt} . Overhead view, detailed map, units, reminiscent of real-time strategy video games",
+    "negative_prompt": "first-person view, modern, photorealistic"
+  },
+  {
+    "name": "Fei Street Fighter",
+    "prompt": "Street Fighter style {prompt} . Vibrant, dynamic, arcade, 2D fighting game, highly detailed, reminiscent of Street Fighter series",
+    "negative_prompt": "3D, realistic, modern, photorealistic, turn-based strategy"
+  },
+  {
+    "name": "Fei Legend of Zelda",
+    "prompt": "Legend of Zelda style {prompt} . Vibrant, fantasy, detailed, epic, heroic, reminiscent of The Legend of Zelda series",
+    "negative_prompt": "sci-fi, modern, realistic, horror"
+  },
+  {
+    "name": "Fei Architectural",
+    "prompt": "Architectural style {prompt} . Clean lines, geometric shapes, minimalist, modern, architectural drawing, highly detailed",
+    "negative_prompt": "curved lines, ornate, baroque, abstract, grunge"
+  },
+  {
+    "name": "Fei Disco",
+    "prompt": "Disco-themed {prompt} . Vibrant, groovy, retro 70s style, shiny disco balls, neon lights, dance floor, highly detailed",
+    "negative_prompt": "minimalist, rustic, monochrome, contemporary, simplistic"
+  },
+  {
+    "name": "Fei Dreamscape",
+    "prompt": "Dreamscape {prompt} . Surreal, ethereal, dreamy, mysterious, fantasy, highly detailed",
+    "negative_prompt": "realistic, concrete, ordinary, mundane"
+  },
+  {
+    "name": "Fei Dystopian",
+    "prompt": "Dystopian style {prompt} . Bleak, post-apocalyptic, somber, dramatic, highly detailed",
+    "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, cheerful, optimistic, vibrant, colorful"
+  },
+  {
+    "name": "Fei Fairy Tale",
+    "prompt": "Fairy tale {prompt} . Magical, fantastical, enchanting, storybook style, highly detailed",
+    "negative_prompt": "realistic, modern, ordinary, mundane"
+  },
+  {
+    "name": "Fei Gothic",
+    "prompt": "Gothic style {prompt} . Dark, mysterious, haunting, dramatic, ornate, detailed",
+    "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, cheerful, optimistic"
+  },
+  {
+    "name": "Fei Grunge",
+    "prompt": "Grunge style {prompt} . Textured, distressed, vintage, edgy, punk rock vibe, dirty, noisy",
+    "negative_prompt": "smooth, clean, minimalist, sleek, modern, photorealistic"
+  },
+  {
+    "name": "Fei Horror",
+    "prompt": "Horror-themed {prompt} . Eerie, unsettling, dark, spooky, suspenseful, grim, highly detailed",
+    "negative_prompt": "cheerful, bright, vibrant, light-hearted, cute"
+  },
+  {
+    "name": "Fei Minimalist",
+    "prompt": "Minimalist style {prompt} . Simple, clean, uncluttered, modern, elegant",
+    "negative_prompt": "ornate, complicated, highly detailed, cluttered, disordered, messy, noisy"
+  },
+  {
+    "name": "Fei Monochrome",
+    "prompt": "Monochrome {prompt} . Black and white, contrast, tone, texture, detailed",
+    "negative_prompt": "colorful, vibrant, noisy, blurry, deformed"
+  },
+  {
+    "name": "Fei Nautical",
+    "prompt": "Nautical-themed {prompt} . Sea, ocean, ships, maritime, beach, marine life, highly detailed",
+    "negative_prompt": "landlocked, desert, mountains, urban, rustic"
+  },
+  {
+    "name": "Fei Space",
+    "prompt": "Space-themed {prompt} . Cosmic, celestial, stars, galaxies, nebulas, planets, science fiction, highly detailed",
+    "negative_prompt": "earthly, mundane, ground-based, realism"
+  },
+  {
+    "name": "Fei Stained Glass",
+    "prompt": "Stained glass style {prompt} . Vibrant, beautiful, translucent, intricate, detailed",
+    "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+  },
+  {
+    "name": "Fei Techwear Fashion",
+    "prompt": "Techwear fashion {prompt} . Futuristic, cyberpunk, urban, tactical, sleek, dark, highly detailed",
+    "negative_prompt": "vintage, rural, colorful, low contrast, realism, sketch, watercolor"
+  },
+  {
+    "name": "Fei Tribal",
+    "prompt": "Tribal style {prompt} . Indigenous, ethnic, traditional patterns, bold, natural colors, highly detailed",
+    "negative_prompt": "modern, futuristic, minimalist, pastel"
+  },
+  {
+    "name": "Fei Zentangle",
+    "prompt": "Zentangle {prompt} . Intricate, abstract, monochrome, patterns, meditative, highly detailed",
+    "negative_prompt": "colorful, representative, simplistic, large fields of color"
+  },
+  {
+    "name": "Fei Collage",
+    "prompt": "Collage style {prompt} . Mixed media, layered, textural, detailed, artistic",
+    "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic"
+  },
+  {
+    "name": "Fei Flat Papercut",
+    "prompt": "Flat papercut style {prompt} . Silhouette, clean cuts, paper, sharp edges, minimalist, color block",
+    "negative_prompt": "3D, high detail, noise, grainy, blurry, painting, drawing, photo, disfigured"
+  },
+  {
+    "name": "Fei Kirigami",
+    "prompt": "Kirigami representation of {prompt} . 3D, paper folding, paper cutting, Japanese, intricate, symmetrical, precision, clean lines",
+    "negative_prompt": "painting, drawing, 2D, noisy, blurry, deformed"
+  },
+  {
+    "name": "Fei Paper Mache",
+    "prompt": "Paper mache representation of {prompt} . 3D, sculptural, textured, handmade, vibrant, fun",
+    "negative_prompt": "2D, flat, photo, sketch, digital art, deformed, noisy, blurry"
+  },
+  {
+    "name": "Fei Paper Quilling",
+    "prompt": "Paper quilling art of {prompt} . Intricate, delicate, curling, rolling, shaping, coiling, loops, 3D, dimensional, ornamental",
+    "negative_prompt": "photo, painting, drawing, 2D, flat, deformed, noisy, blurry"
+  },
+  {
+    "name": "Fei Papercut Collage",
+    "prompt": "Papercut collage of {prompt} . Mixed media, textured paper, overlapping, asymmetrical, abstract, vibrant",
+    "negative_prompt": "photo, 3D, realistic, drawing, painting, high detail, disfigured"
+  },
+  {
+    "name": "Fei Papercut Shadow Box",
+    "prompt": "3D papercut shadow box of {prompt} . Layered, dimensional, depth, silhouette, shadow, papercut, handmade, high contrast",
+    "negative_prompt": "painting, drawing, photo, 2D, flat, high detail, blurry, noisy, disfigured"
+  },
+  {
+    "name": "Fei Stacked Papercut",
+    "prompt": "Stacked papercut art of {prompt} . 3D, layered, dimensional, depth, precision cut, stacked layers, papercut, high contrast",
+    "negative_prompt": "2D, flat, noisy, blurry, painting, drawing, photo, deformed"
+  },
+  {
+    "name": "Fei Thick Layered Papercut",
+    "prompt": "Thick layered papercut art of {prompt} . Deep 3D, volumetric, dimensional, depth, thick paper, high stack, heavy texture, tangible layers",
+    "negative_prompt": "2D, flat, thin paper, low stack, smooth texture, painting, drawing, photo, deformed"
+  },
+  {
+    "name": "Fei Alien",
+    "prompt": "Alien-themed {prompt} . Extraterrestrial, cosmic, otherworldly, mysterious, sci-fi, highly detailed",
+    "negative_prompt": "earthly, mundane, common, realistic, simple"
+  },
+  {
+    "name": "Fei Film Noir",
+    "prompt": "Film noir style {prompt} . Monochrome, high contrast, dramatic shadows, 1940s style, mysterious, cinematic",
+    "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, vibrant, colorful"
+  },
+  {
+    "name": "Fei HDR",
+    "prompt": "HDR photo of {prompt} . High dynamic range, vivid, rich details, clear shadows and highlights, realistic, intense, enhanced contrast, highly detailed",
+    "negative_prompt": "flat, low contrast, oversaturated, underexposed, overexposed, blurred, noisy"
+  },
+  {
+    "name": "Fei Long Exposure",
+    "prompt": "Long exposure photo of {prompt} . Blurred motion, streaks of light, surreal, dreamy, ghosting effect, highly detailed",
+    "negative_prompt": "static, noisy, deformed, shaky, abrupt, flat, low contrast"
+  },
+  {
+    "name": "Fei Neon Noir",
+    "prompt": "Neon noir {prompt} . Cyberpunk, dark, rainy streets, neon signs, high contrast, low light, vibrant, highly detailed",
+    "negative_prompt": "bright, sunny, daytime, low contrast, black and white, sketch, watercolor"
+  },
+  {
+    "name": "Fei Silhouette",
+    "prompt": "Silhouette style {prompt} . High contrast, minimalistic, black and white, stark, dramatic",
+    "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, color, realism, photorealistic"
+  },
+  {
+    "name": "Fei Tilt Shift",
+    "prompt": "Tilt-shift photo of {prompt} . Selective focus, miniature effect, blurred background, highly detailed, vibrant, perspective control",
+    "negative_prompt": "blurry, noisy, deformed, flat, low contrast, unrealistic, oversaturated, underexposed"
+  }
+]
