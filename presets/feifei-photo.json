@@ -1,0 +1,85 @@
+{
+    "default_model": "0feifei\\0-feifei-photo-v1.5.vae.fp16.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.8,
+    "default_loras_min_weight": -2,
+    "default_loras_max_weight": 2,
+    "default_loras": [
+        [
+            true,
+            "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
+            0.25
+        ],
+        [
+            true,
+            "2-Fixhands-unfilteredai.safetensors",
+            1
+        ],
+        [
+            true,
+            "1-EyesDetailedEyes_V3.safetensors",
+            1
+        ],
+        [
+            true,
+            "WildcardX-XL-Detail-Enhancer.safetensors",
+            1
+        ],
+        [
+            true,
+            "Hyper-SDXL-8steps-lora.safetensors",
+            0.5
+        ]
+    ],
+    "default_cfg_scale": 1.0,
+    "default_sample_sharpness": 15,
+    "default_overwrite_step": 9,
+    "default_sampler": "dpmpp_3m_sde_gpu",
+    "default_scheduler": "sgm_uniform",
+    "default_vae": "fixFP16ErrorsSDXLLowerMemoryUse_v10.safetensors",
+    "default_styles": [
+        "Fooocus V2",
+		"Fooocus Negative",
+        "Fooocus Sharp",
+		"Fooocus Enhance",
+        "Fei Speaks Volumes"
+    ],
+    "default_prompt_negative": "lowres,face asymmetry, eyes asymmetry, deformed eyes, open mouth,",
+    "default_prompt": "jpop,fresh-faced,Slim face,activities,underwear,by __artists__ and __artists__,",
+    "default_performance": "Speed",
+    "default_advanced_checkbox": true,
+    "default_max_image_number": 320,
+    "default_output_format": "png",
+    "default_image_number": 1,
+	"available_aspect_ratios": [
+		"1280*720",
+        "720*1280",
+        "704*1408",
+        "704*1344",
+        "768*1344",
+        "768*1280",
+        "832*1216",
+        "832*1152",
+        "896*1152",
+        "896*1088",
+        "960*1088",
+        "960*1024",
+        "1024*1024",
+        "1024*960",
+        "1088*960",
+        "1088*896",
+        "1152*896",
+        "1152*832",
+        "1216*832",
+        "1280*768",
+        "1344*768",
+        "1344*704",
+        "1408*704",
+        "1472*704",
+        "1536*640",
+        "1600*640",
+        "1664*576",
+        "1728*576"
+	],
+    "default_aspect_ratio": "720*1280"
+}
