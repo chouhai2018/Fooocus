@@ -1,0 +1,37 @@
+给我描述几个漂亮女模特低俗色情照片,英文一句话一张,每张要带模特说什么
+ ./main -m ../../models/Yi-1.5-6B-Chat-Q4_K_M.gguf --prompt "我需要10个低俗色情女模特sex photo的英文描述,一句一个"
+
+
+jpop,Magic Hour,fresh-faced,Slim face,activities,by __artists__ and Bruce Weber ,
+"A statuesque model exudes global chic in a full-length spread for an international fashion magazine, her confident stride and cutting-edge attire epitomizing the essence of modern elegance."
+
+The model lies on the bed with her hands tied above her head, revealing a provocative gaze and hinting at dominance and submission.
+
+In a dimly lit room, the model is suspended from the ceiling by restraints, showcasing her agility as she gently caresses herself in suggestive movements.
+
+The model sits seductively on a chair, wearing only elegant leather straps that accentuate her curves while displaying an air of sensual restraint.
+
+With her back arched and arms stretched out, the model poses with a provocative smile, presenting her skin as canvas for erotic expressions through tattoos.
+
+Draped in a sheer material that barely covers her, the model stands confidently, showcasing her beauty by teasingly revealing just enough to tantalize the viewer's imagination.
+
+The model lies on a plush rug, legs slightly spread and feet flexed, expressing vulnerability while maintaining an air of mystery through half-closed eyes and soft lips.
+
+Wearing nothing but elegant black latex gloves, the model meticulously removes her clothes, each movement deliberate to evoke both power and surrender in equal measure.
+
+The model sits on a chair with her legs apart, displaying her confidence while gently caressing her inner thighs, emphasizing her femininity and sensuality.
+
+With chains hanging from her wrists, the model poses against a wall, her expression a mix of defiance and desire as she wraps her arms around herself suggestively.
+
+The model is positioned on a bed with ropes binding her ankles to the headboard, her pose emphasizing vulnerability while maintaining an air of control over her environment.
+
+1. "Elegant curves and provocative poses in a candid and natural setting."
+2. "Sultry glances and suggestive gestures in a secluded garden."
+3. "Chic lingerie and suggestive expressions in a dimly lit studio."
+4. "Intimate close-ups and alluring smiles in a cozy bedroom."
+5. "Tattoo details and seductive body language in a retro bar setting."
+6. "Underwater seduction and sensual underwater shots."
+7. "Feminine strength and confident poses in a rugged outdoor setting."
+8. "Intimate moments and suggestive facial expressions in a luxurious hotel room."
+9. "Elegant simplicity and flirtatious glances in a minimalist living room."
+10. "Sensual embraces and bold poses in a chaotic urban street scene."
