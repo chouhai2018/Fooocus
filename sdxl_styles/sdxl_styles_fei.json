@@ -1,8 +1,13 @@
 [
   {
+    "name": "Nvidia Rtx 4090",
+    "prompt": "{prompt} ,and nvidia rtx 4090 Ray Tracing.",
+    "negative_prompt": "lowres,face asymmetry, eyes asymmetry, deformed eyes, open mouth,"
+  },
+  {
     "name": "Fei Speaks Volumes",
-    "prompt": "{prompt}, truly captivating, Her delicate fingers caress the fabric seductively, stunning figure speaks volumes",
-    "negative_prompt": "text"
+    "prompt": "astonishing gloomy art made mainly of shadows and lighting, forming {prompt}. masterful usage of lighting, shadows and chiaroscuro. truly captivating, Her delicate fingers caress the fabric seductively, stunning figure speaks volumes",
+    "negative_prompt": "lowres,face asymmetry, eyes asymmetry, deformed eyes"
   },
   {
     "name": "Fei Animagine Cinematic",
