@@ -1,5 +1,5 @@
 {
-    "default_model": "0feifei\\0-feifei-Anime-v2-Vae.fp16.safetensors",
+    "default_model": "0-feifei-Anime-v2-Vae.fp16.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.8,
     "default_loras_min_weight": -2,
@@ -7,12 +7,17 @@
     "default_loras": [
         [
             true,
-            "1-EyesDetailedEyes_V3.safetensors",
-            1
+            "Hyper-SDXL-12steps-CFG-lora.safetensors",
+            0.3
         ],
         [
             true,
             "2-Fixhands-unfilteredai.safetensors",
+            1
+        ],
+        [
+            true,
+            "1-EyesDetailedEyes_V3.safetensors",
             1
         ],
         [
@@ -22,15 +27,11 @@
         ],
         [
             true,
-            "High-Colors-details.safetensors",
-            1
-        ],
-        [
-            true,
             "Hyper-SDXL-8steps-lora.safetensors",
-            0.4
+            0.45
         ]
     ],
+	"default_max_lora_number": 9,
     "default_cfg_scale": 1.0,
     "default_sample_sharpness": 15,
     "default_overwrite_step": 9,
@@ -39,19 +40,17 @@
     "default_vae": "fixFP16ErrorsSDXLLowerMemoryUse_v10.safetensors",
     "default_styles": [
         "Fooocus V2",
-        "Random Style",
-        "Fei Speaks Volumes"
+        "Fei Speaks Volumes",
+        "Nvidia Rtx 4090"
     ],
-    "default_prompt_negative": "lowres,face asymmetry, eyes asymmetry, deformed eyes, open mouth,",
-    "default_prompt": "jpop,cute,fresh-faced,Slim face,activities,activities,by __artists__ and __artists__,High-quality photography, creative composition, fashion foresight, a strong visual style, and an aura of luxury and sophistication collectively define the distinctive aesthetic of movie.",
+    "default_prompt_negative": "",
+    "default_prompt": "anime,pose,jpop,wet,wind,rain,Sex Appeal female idol fashion,19 yo,cute ,shy,slight smile,gigantic breasts,bikini,fashion glasses, ",
     "default_performance": "Speed",
     "default_advanced_checkbox": true,
     "default_max_image_number": 320,
     "default_output_format": "png",
     "default_image_number": 1,
-	"available_aspect_ratios": [
-		"1280*720",
-        "720*1280",
+    "available_aspect_ratios": [
         "704*1408",
         "704*1344",
         "768*1344",
@@ -78,6 +77,14 @@
         "1600*640",
         "1664*576",
         "1728*576"
-	],
-    "default_aspect_ratio": "720*1280"
+    ],
+    "default_aspect_ratio": "768*1280",
+	"example_inpaint_prompts": [
+        "highly detailed face",
+        "jpop,Infectious smile,highly detailed face",
+		"detailed girl face",
+        "detailed man face",
+        "detailed hand",
+        "beautiful eyes"
+    ]
 }
