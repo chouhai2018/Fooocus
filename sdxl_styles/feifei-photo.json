@@ -1,5 +1,5 @@
 {
-    "default_model": "0-feifei-Photo-v1.7.3.vae.fp16.safetensors",
+    "default_model": "fv3-g4.2-vae.fp16.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.8,
     "default_loras_min_weight": -2,
@@ -7,8 +7,8 @@
     "default_loras": [
         [
             true,
-            "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
-            0.25
+            "Hyper-SDXL-12steps-CFG-lora.safetensors",
+            0.3
         ],
         [
             true,
@@ -31,29 +31,27 @@
             0.45
         ]
     ],
+	"default_max_lora_number": 9,
     "default_cfg_scale": 1.0,
-    "default_sample_sharpness": 5,
+    "default_sample_sharpness": 10,
     "default_overwrite_step": 9,
     "default_sampler": "dpmpp_3m_sde_gpu",
     "default_scheduler": "sgm_uniform",
     "default_vae": "fixFP16ErrorsSDXLLowerMemoryUse_v10.safetensors",
     "default_styles": [
         "Fooocus V2",
-		"Fooocus Photograph",
-        "Fooocus Negative",
+		"Fei Quality Standard V3.1",
         "Fei Speaks Volumes",
         "Nvidia Rtx 4090"
     ],
-    "default_prompt_negative": "lowres,face asymmetry, eyes asymmetry, deformed eyes, open mouth,",
-    "default_prompt": "jpop,Infectious smile,Toned body,playful,resh-faced,activities,sky eyes,__starry_artists_v52__,by __artists__ and __artists__,",
+    "default_prompt_negative": "anime,",
+    "default_prompt": "sleeping,close-up ,sexy poses,bed,sexy 18 yo kpop Real model girl in real, pose,gentle smile,gigantic breasts,fashion portrait for VOGUE,",
     "default_performance": "Speed",
     "default_advanced_checkbox": true,
     "default_max_image_number": 320,
     "default_output_format": "png",
     "default_image_number": 1,
-	"available_aspect_ratios": [
-		"1280*720",
-        "720*1280",
+    "available_aspect_ratios": [
         "704*1408",
         "704*1344",
         "768*1344",
@@ -80,8 +78,8 @@
         "1600*640",
         "1664*576",
         "1728*576"
-	],
-    "default_aspect_ratio": "720*1280",
+    ],
+    "default_aspect_ratio": "768*1344",
 	    "example_inpaint_prompts": [
         "highly detailed face",
         "jpop,Infectious smile,highly detailed face",
