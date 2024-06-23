@@ -1,7 +1,77 @@
 [
   {
+    "name": "feifei Hi-Res",
+    "prompt": "hyper-realistic 8K image of {prompt}. ultra-detailed, lifelike, high-resolution, sharp, vibrant colors, photorealistic",
+    "negative_prompt": "cartoonish, low resolution, blurry, simplistic, abstract, deformed, ugly"
+  },
+  {
+    "name": "feifei B & W",
+    "prompt": "black and white collage of {prompt}. monochromatic, timeless, classic, dramatic contrast",
+    "negative_prompt": "colorful, vibrant, bright, flashy"
+  },
+  {
+    "name": "feifei Polaroid",
+    "prompt": "collage of polaroid photos featuring {prompt}. vintage style, high contrast, nostalgic, instant film aesthetic",
+    "negative_prompt": "digital, modern, low quality, blurry"
+  },
+  {
+    "name": "feifei Watercolor",
+    "prompt": "watercolor collage of {prompt}. soft edges, translucent colors, painterly effects",
+    "negative_prompt": "digital, sharp lines, solid colors"
+  },
+  {
+    "name": "feifei Cinematic",
+    "prompt": "cinematic collage of {prompt}. film stills, movie posters, dramatic lighting",
+    "negative_prompt": "static, lifeless, mundane"
+  },
+  {
+    "name": "feifei Nostalgic",
+    "prompt": "nostalgic collage of {prompt}. retro imagery, vintage objects, sentimental journey",
+    "negative_prompt": "contemporary, futuristic, forward-looking"
+  },
+  {
+    "name": "feifei Vintage",
+    "prompt": "vintage collage of {prompt}. aged paper, sepia tones, retro imagery, antique vibes",
+    "negative_prompt": "modern, contemporary, futuristic, high-tech"
+  },
+  {
+    "name": "feifei Scrapbook",
+    "prompt": "scrapbook style collage of {prompt}. mixed media, hand-cut elements, textures, paper, stickers, doodles",
+    "negative_prompt": "clean, digital, modern, low quality"
+  },
+  {
+    "name": "feifei NeoNGlow",
+    "prompt": "neon glow collage of {prompt}. vibrant colors, glowing effects, futuristic vibes",
+    "negative_prompt": "dull, muted colors, vintage, retro"
+  },
+  {
+    "name": "feifei Geometric",
+    "prompt": "geometric collage of {prompt}. abstract shapes, colorful, sharp edges, modern design, high quality",
+    "negative_prompt": "blurry, low quality, traditional, dull"
+  },
+  {
+    "name": "feifei Thematic",
+    "prompt": "thematic collage of {prompt}. cohesive theme, well-organized, matching colors, creative layout",
+    "negative_prompt": "random, messy, unorganized, clashing colors"
+  },
+  {
+    "name": "feifei 3840 x 2160",
+    "prompt": "hyper-realistic 8K image of {prompt}. ultra-detailed, lifelike, high-resolution, sharp, vibrant colors, photorealistic",
+    "negative_prompt": "cartoonish, low resolution, blurry, simplistic, abstract, deformed, ugly"
+  },
+  {
+    "name": "feifei 2560 x 1440",
+    "prompt": "hyper-realistic 4K image of {prompt}. ultra-detailed, lifelike, high-resolution, sharp, vibrant colors, photorealistic",
+    "negative_prompt": "cartoonish, low resolution, blurry, simplistic, abstract, deformed, ugly"
+  },
+  {
+    "name": "feifei HD+",
+    "prompt": "hyper-realistic 2K image of {prompt}. ultra-detailed, lifelike, high-resolution, sharp, vibrant colors, photorealistic",
+    "negative_prompt": "cartoonish, low resolution, blurry, simplistic, abstract, deformed, ugly"
+  },
+  {
     "name": "Nvidia Rtx 4090",
-    "prompt": "{prompt} ,and nvidia rtx 4090 Ray Tracing.",
+    "prompt": "{prompt} ,Ray Tracing , DLSS 3 , Reflex,",
     "negative_prompt": "lowres,face asymmetry, eyes asymmetry, deformed eyes, open mouth,"
   },
   {
